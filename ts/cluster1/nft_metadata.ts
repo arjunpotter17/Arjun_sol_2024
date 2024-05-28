@@ -17,7 +17,7 @@ umi.use(signerIdentity(signer));
         // Follow this JSON structure
         // https://docs.metaplex.com/programs/token-metadata/changelog/v1.0#json-structure
 
-        const image = "https://arweave.net/4viN1GNYmG4pLxIB9wyAGWdq7sOocugWA21R7GbJb6w"
+        const image = "https://arweave.net/ZZ6KbkRmPYXNukUOv-qsNF5E2Ix-wUpSyYMPJVXeqA8"
         const metadata = {
             name: "Lewis Hamilton's Monster",
             symbol: "HAM",

@@ -21,7 +21,7 @@ const mint = generateSigner(umi);
                 mint,
                 name: "Lewis Hamilton's Monster",
                 symbol:'HAM',
-                uri: 'https://arweave.net/0RioZUut7Y8XA_OtH45MSsqBpB-P3u35Yf9UFkJ2s5g',
+                uri: 'https://arweave.net/NODbYmfsQktn4ovP_YOYFvh1gp--cxCMrLMYvMPSvC4',
                 sellerFeeBasisPoints: percentAmount(25),
         })
     let result = await tx.sendAndConfirm(umi);
