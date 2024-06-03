@@ -1,0 +1,3 @@
+[submodule "class_code/WBA-escrow-2024"]
+	path = class_code/WBA-escrow-2024
+	url = git@github.com:arjunpotter17/WBA-escrow-2024.git
